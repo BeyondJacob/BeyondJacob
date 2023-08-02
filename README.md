@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a Software Engineer at Realtor.com and the Fou
 
 🏢 [Realtor.com](https://www.realtor.com): Associate Software Engineer
 
-🚀 [Beyond](https://www.beyondstartup.com): Founder / CEO + Software Engineer
+🚀 [Beyond](https://www.beyondnav.com): Founder / CEO + Software Engineer
 
 ## Technologies & Tools | Currently Learning
 
