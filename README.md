@@ -16,9 +16,9 @@ Welcome to my GitHub profile! I'm a Software Engineer at Realtor.com and the Fou
 
 | 💻 Technologies | 📚 Learning             |
 | -------------- | ----------------------- |
-| React   | Salesforce Admin / Developer       |
-| Python  | Swift & SwiftUI        |
-| AWS / Cloud   | LLM's and AI        |
+| React / JS   | Salesforce Admin / Developer       |
+| Python / Java  | Swift-ARKit        |
+| AWS / Cloud   | LLM's-AI & Rust    |
 
 ## How to Reach Me
 
